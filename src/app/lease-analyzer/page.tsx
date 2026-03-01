@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
-import { FileText, AlertOctagon, CheckCircle2, Loader2, DollarSign, Sparkles, ClipboardList, ShieldCheck, CalendarClock, Droplets, Zap, Wifi, Dog } from 'lucide-react'
+import { FileText, AlertOctagon, CheckCircle2, Loader2, DollarSign, Sparkles, ClipboardList, ShieldCheck, CalendarClock, Dog } from 'lucide-react'
 
 export default function LeaseAnalyzer() {
     const [file, setFile] = useState<File | null>(null)

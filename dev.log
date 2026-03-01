@@ -79,3 +79,4 @@ Lease Analyzer Error: TypeError: pdfParse is not a function
    Reload env: .env
  ✓ Compiled in 493ms (1463 modules)
  ✓ Compiled in 308ms (1248 modules)
+ ✓ Compiled in 1533ms (1278 modules)
