@@ -78,3 +78,4 @@ Lease Analyzer Error: TypeError: pdfParse is not a function
 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (192kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
    Reload env: .env
  ✓ Compiled in 493ms (1463 modules)
+ ✓ Compiled in 308ms (1248 modules)
